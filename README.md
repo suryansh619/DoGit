@@ -1,2 +1,2 @@
-# doGit
+# DoGit
 Learning Git Tool.
